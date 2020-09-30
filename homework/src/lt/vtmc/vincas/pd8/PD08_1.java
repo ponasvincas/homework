@@ -1,4 +1,4 @@
-package lt.vtmc.vincas.homework;
+package lt.vtmc.vincas.pd8;
 
 
 import java.util.Scanner;
