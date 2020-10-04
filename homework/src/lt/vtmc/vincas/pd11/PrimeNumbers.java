@@ -24,6 +24,8 @@ public class PrimeNumbers {
             System.out.print(number1 + ",");
         number1++;
         flag = false;
+        if (number1 == number2)
+        	System.out.println("\n");
     
 }
 	}
